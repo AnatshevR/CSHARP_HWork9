@@ -1,0 +1,15 @@
+D:\GB\HOME_WORK_V_2\HomeWork9\Task1_From1toN\bin\Debug\net6.0\Task1_From1toN.exe
+D:\GB\HOME_WORK_V_2\HomeWork9\Task1_From1toN\bin\Debug\net6.0\Task1_From1toN.deps.json
+D:\GB\HOME_WORK_V_2\HomeWork9\Task1_From1toN\bin\Debug\net6.0\Task1_From1toN.runtimeconfig.json
+D:\GB\HOME_WORK_V_2\HomeWork9\Task1_From1toN\bin\Debug\net6.0\Task1_From1toN.dll
+D:\GB\HOME_WORK_V_2\HomeWork9\Task1_From1toN\bin\Debug\net6.0\Task1_From1toN.pdb
+D:\GB\HOME_WORK_V_2\HomeWork9\Task1_From1toN\obj\Debug\net6.0\Task1_From1toN.csproj.AssemblyReference.cache
+D:\GB\HOME_WORK_V_2\HomeWork9\Task1_From1toN\obj\Debug\net6.0\Task1_From1toN.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\HOME_WORK_V_2\HomeWork9\Task1_From1toN\obj\Debug\net6.0\Task1_From1toN.AssemblyInfoInputs.cache
+D:\GB\HOME_WORK_V_2\HomeWork9\Task1_From1toN\obj\Debug\net6.0\Task1_From1toN.AssemblyInfo.cs
+D:\GB\HOME_WORK_V_2\HomeWork9\Task1_From1toN\obj\Debug\net6.0\Task1_From1toN.csproj.CoreCompileInputs.cache
+D:\GB\HOME_WORK_V_2\HomeWork9\Task1_From1toN\obj\Debug\net6.0\Task1_From1toN.dll
+D:\GB\HOME_WORK_V_2\HomeWork9\Task1_From1toN\obj\Debug\net6.0\refint\Task1_From1toN.dll
+D:\GB\HOME_WORK_V_2\HomeWork9\Task1_From1toN\obj\Debug\net6.0\Task1_From1toN.pdb
+D:\GB\HOME_WORK_V_2\HomeWork9\Task1_From1toN\obj\Debug\net6.0\Task1_From1toN.genruntimeconfig.cache
+D:\GB\HOME_WORK_V_2\HomeWork9\Task1_From1toN\obj\Debug\net6.0\ref\Task1_From1toN.dll
